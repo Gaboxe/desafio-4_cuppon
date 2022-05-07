@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    /*font-weight: 500;*/
+}
+
+h1, h2, h3, h4, h6, p, a, input {
+    font-family: 'Roboto' , sans-serif;
+    font-weight: 300;
+}
+
+.color-hr {
+    color: #707070A0;
+}
+
+.font-title {
+    line-height: 2.0064rem; /* 24pt - 31.92px */
+    font-size: 1.6720rem; /* 20pt - 26.60px */
+    color: #212529;
+}
+
+.colortam-name {
+    line-height: 1.5884rem; /* 19pt - 25.27px */
+    font-size: 1.3376rem; /* 16pt - 21.28px */
+    color: #707070;
+}
+.direccion {
+    line-height: 1.2540rem; /* 15pt - 19.95 */
+    font-size: 1.0868rem; /* 13pt - 17.29px */
+    color: #707070;
+}
+
+.fw-med {
+    font-weight: 500;
+    line-height: 2.0064rem; /* 24pt - 31.92px */
+    font-size: 1.3376rem; /* 16pt - 21.28px */
+    color: #212529;
+}
+
+.text-margin-b {
+    margin-bottom: 2.2540rem;
+}
